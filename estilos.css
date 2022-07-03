@@ -1,0 +1,74 @@
+
+*{
+    margin: 1px;
+    padding: 3px;  
+}
+body{
+    background-color: #ffeee1;
+
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #7A4D2D;
+    width: 7000px;
+    max-width: 7000px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky ;
+    top: 0%;
+
+    left: 0;
+    top: 0;
+    right: 0;
+    font-family: Century Gothic;
+    padding: 0.05rem 0rem;
+    
+}   
+    .heder {
+        left: 0;
+        top: 0;
+        right: 0;
+        font-family: Century Gothic; 
+        width: 100%;
+
+        font-size: 0.9rem
+    }
+        .heder a {
+            text-decoration: none;
+            padding: 1px;
+            width: 200pxpx;
+            display: inline-block;
+            padding: 0.5rem 1rem;  
+        }
+
+a{
+    color: #fff;
+}
+
+.principal{
+
+    display: flex;
+    align-items: center;
+    font-family: Asthan;
+    font-size: 2rem
+    
+}
+
+    .principal h3{
+        display: flex;
+        align-items: center;
+        margin: 0px;
+        padding: 10px ;  
+        position: sticky ;
+        font-family: Bernard MT Condensed;
+        font-size: 2.5rem
+
+    }
+fieldset{
+    width: 300px;
+    font-size: 1.3rem
+
+}
